@@ -9,7 +9,7 @@
  
 1. git clone https://github.com/jenizar/tetris-reactjs.git
 
-2. cd reactjs-tetris
+2. cd tetris-reactjs
 
 3. npm install
 
