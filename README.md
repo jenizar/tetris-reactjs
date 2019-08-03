@@ -7,7 +7,7 @@
  
  
  
-1. git clone https://github.com/volkansengul/reactjs-tetris.git
+1. git clone https://github.com/jenizar/tetris-reactjs.git
 
 2. cd reactjs-tetris
 
@@ -18,5 +18,9 @@
 5. Create file manifest.yml
 
 6. cf push 
+
+References:
+
+https://github.com/volkansengul/reactjs-tetris
 
 
