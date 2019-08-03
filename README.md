@@ -5,7 +5,7 @@
  
  Youtube video:
  
- 
+ https://youtu.be/4EggNAlXMuE
  
 1. git clone https://github.com/jenizar/tetris-reactjs.git
 
@@ -18,6 +18,13 @@
 5. Create file manifest.yml
 
 6. cf push 
+
+Ensure that your system meets all prerequisites before installing the apps:
+
+1. install cloud foundry - cli command
+
+2. install nodejs LTS / npm
+
 
 References:
 
